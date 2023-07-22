@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/admin")
 public class AdminController {
-//master
+//new branch from master
     private final UserService userService;
     private final RoleService roleService;
 
